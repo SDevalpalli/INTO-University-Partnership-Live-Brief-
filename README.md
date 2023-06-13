@@ -24,7 +24,7 @@ Various options and alternatives were analysed to filter the list of the top 20 
 
 ### Here is the link for the dashboard: ###
 
-![Dashboard]([https://app.powerbi.com/groups/me/reports/57d9e034-b1ca-42e2-b953-a9d3b6fd0015/ReportSection6cc52752e0c25c8aaaa3](https://github.com/SDevalpalli/INTO-University-Partnership-Live-Brief-/commit/80a2883450d7e0dd9a2c24b25cad25f292dbf9f1)) 
+![Dashboard](https://github.com/SDevalpalli/INTO-University-Partnership-Live-Brief-/commit/80a2883450d7e0dd9a2c24b25cad25f292dbf9f1) 
 
 ### Justifications ###
 * The top 10 states that are attracting the highest number of international students (source: https://www.statista.com) are considered and filtered in the list of universities based on the location which is urban, suburban and town within 10 miles from the suburb.
