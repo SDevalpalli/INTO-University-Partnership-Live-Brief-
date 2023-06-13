@@ -24,10 +24,9 @@ Various options and alternatives were analysed to filter the list of the top 20 
 
 ### Here is the link for the dashboard: ###
 
-![](https://app.powerbi.com/groups/me/reports/57d9e034-b1ca-42e2-b953-a9d3b6fd0015/ReportSection6cc52752e0c25c8aaaa3) 
+![Dashboard]((https://app.powerbi.com/groups/me/reports/57d9e034-b1ca-42e2-b953-a9d3b6fd0015/ReportSection6cc52752e0c25c8aaaa3) 
 
 ### Justifications ###
-
 * The top 10 states that are attracting the highest number of international students (source: https://www.statista.com) are considered and filtered in the list of universities based on the location which is urban, suburban and town within 10 miles from the suburb.
 * Also compared the percentage of international students in a particular university to the State benchmark. (Source: https://www.applyboard.com)
 * The top 50 universities that have the highest enrolments of international students over the time 2017 – 2020 are sorted.
